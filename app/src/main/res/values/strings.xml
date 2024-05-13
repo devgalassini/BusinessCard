@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLayout</string>
+    <string name="job_description">Dev. Android Kotlin | Java Web</string>
+    <string name="cellphone_description">(11)96346–4597</string>
+    <string name="email_description">priscilagalassini@gmail.com</string>
+    <string name="linkedin_description">priscila-galassini</string>
+    <string name="address_description">R. Arroio Das Caneleiras \nSão Paulo - SP</string>
+    <string name="logotipo_contentDescription">logotipo</string>
+</resources>
